@@ -25,7 +25,7 @@
 ## 👋 About Me
 
 I’m **Jeeva S**, a B.E. Computer Science student at **M. Kumarasamy College Of Engineering (2023–2027)**.
-I’m passionate about building clean, responsive web interfaces and practical software projects, with interests in **embedded systems**, **IoT**, and **AI-based solutions**.
+I’m passionate about building clean, responsive web interfaces and practical software projects, with interests in  **AI-based solutions**.
 
 ---
 
