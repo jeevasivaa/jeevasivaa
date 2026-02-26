@@ -1,30 +1,22 @@
 <div align="center">
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=280&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20%7C%20Full-Stack%20Explorer&descSize=20&descAlignY=55"
-       style="max-width:100%;"/>
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=280&section=header&text=Jeeva%20S&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Development%20%7C%20Embedded%20Systems&descSize=20&descAlignY=55" style="max-width:100%;"/>
 
+<br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
-
-
-
-<br/><br/>
-
-<a href="https://github.com/Muzzammil777">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/jeevasivaa">
+	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/mohammed-muzzammil-a-k-356a36318">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/jeevasivaa">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:mohammedmuzzammil.offic@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:jeevasivaa@outlook.com">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Muzzammil777&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=jeevasivaa&label=Profile%20Views&color=blue&style=flat"/>
 
 </div>
 
@@ -32,25 +24,17 @@
 
 ## 👋 About Me
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
-
-<p>
-I’m <b>Mohammed Muzzammil A K</b>, passionate about building real-world software using Full-Stack Development and Generative AI.  
-I enjoy solving problems with clean logic and meaningful UI.
-</p>
-
-</div>
+I’m **Jeeva S**, a B.E. Computer Science student at **M. Kumarasamy College Of Engineering (2023–2027)**.
+I’m passionate about building clean, responsive web interfaces and practical software projects, with interests in **embedded systems**, **IoT**, and **AI-based solutions**.
 
 ---
 
 ## 🔭 Currently Exploring
 
-- 🤖 Generative AI  
-- 🌐 Full-Stack Web Development  
-- ⚙ Backend Systems with .NET & FastAPI  
-- 📈 Scalable APIs and Databases  
+- 🌐 Responsive Web Development
+- ⚙ Full Project Lifecycle and Deployment Basics
+- 🤖 AI + IoT Integration for Real-World Problems
+- 🔌 Embedded and Connected Systems
 
 ---
 
@@ -58,57 +42,70 @@ I enjoy solving problems with clean logic and meaningful UI.
 
 | Category | Technologies |
 |---------|--------------|
-| Languages | Python, Java, C#, JavaScript |
-| Backend | .NET, FastAPI, Node.js, Django |
-| Frontend | React, HTML5, CSS3, Tailwind |
-| AI & ML | TensorFlow, PyTorch, OpenCV, Pandas |
-| Databases | PostgreSQL, MongoDB, MySQL |
-| Tools | Git, Docker, VS Code, Postman |
+| Languages | Python (Basics), Java |
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | PHP |
+| Database | MySQL, SQL |
+| Other Areas | IoT, Embedded Systems, Artificial Intelligence |
+| Tools | Git, VS Code |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
+## 💼 Internship
 
-<div align="center">
+- **Intern – Web Development**
+	*AerixNova Technologies Private Limited (June 2025 – July 2025)*
+	- Built and deployed a responsive personal portfolio using HTML, CSS, and JavaScript
+	- Practiced version control with Git
+	- Collaborated in team tasks and weekly deliverables
+
+---
+
+## 🧩 Featured Projects
+
+- **Basic Registration Form**  
+	HTML & CSS • Responsive UI  
+	🔗 https://github.com/jeevasivaa/basic-regisrtation-form
+
+- **Sports Tournament Management System**  
+	HTML, CSS, JavaScript, PHP, MySQL  
+	🔗 https://github.com/jeevasivaa/Retail-Chain-inventory-Tracker
+
+- **Event Invitation Site**  
+	SQL & Front-end  
+	🔗 https://github.com/jeevasivaa/eventwebpage
+
+- **Smart Ambulance System**  
+	IoT, Embedded Systems, Artificial Intelligence  
+	🔗 https://github.com/jeevasivaa/Smart-ambulance-system
+
+---
 
 ## 🏆 Achievements
 
-- 🥉 **Third Prize — Ignitrix Hackathon**  
-  *M. Kumarasamy College of Engineering — Sep 2025*  
-  Recognized for delivering an innovative technical solution.
-
-- 🥇 **First Prize — AIROX Coding Contest**  
-  *JJ College of Engineering and Technology — Nov 2024*  
-  Awarded for outstanding competitive programming performance.
-
-- 💻 **CodeVita 2025**  
-  Secured **Rank 602** at the national level.
+- 🥇 **1st Prize — RIF A1 Hackathon 2026** *(11 February 2026)*
+	- Developed an AI-based Smart Ambulance system
+	- Demonstrated strong skills in IoT, embedded systems, AI, and intelligent automation
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
+## 📜 Certifications
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzzammil777&theme=radical"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil777&layout=compact&theme=radical" height="160"/>
-</div>
+- NPTEL — *Introduction to Industry 4.0 and Internet of Things* (Score: **81%**, Completed: **Dec 2025**)
+- Introduction to Generative AI — Coursera by Google Cloud (Completed: June 2025)
+- Python Programming Course — Udemy (Completed: September 2025)
 
 ---
 
-## 😂 Random Dev Joke
+## 📫 Contact
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
-</div>
+- 📧 Email: jeevasivaa@outlook.com
+- 📍 Location: Namakkal, Tamil Nadu, India
+- 🔗 LinkedIn: https://linkedin.com/in/jeevasivaa
+- 🐙 GitHub: https://github.com/jeevasivaa
 
 ---
 
-> “Code isn’t just about solving problems — it’s about solving them beautifully.”
+> “I enjoy building meaningful, user-friendly solutions that solve practical problems.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
