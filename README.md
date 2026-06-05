@@ -1,8 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Jeeva%20S&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.E.%20Computer%20Science%20%7C%20Backend%20%26%20Systems%20Enthusiast&descSize=18&descAlignY=56&descColor=c9d1ff" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=280&section=header&text=Jeeva%20S&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Development%20%7C%20Embedded%20Systems&descSize=20&descAlignY=55" style="max-width:100%;"/>
+<br/>
 
 ---
 
