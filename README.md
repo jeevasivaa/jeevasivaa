@@ -134,21 +134,6 @@ Tournament scheduling and management platform.
 </div>
 
 ---
-🐍 Snake Animation
-
-Requires GitHub Actions setup
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
----
 
 # 📋 Profile Summary
 
