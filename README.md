@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00C2FF,100:6A5ACD&text=JEEVA%20S&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20ServiceNow%20CSA&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jeeva%20S&fontSize=65&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20ServiceNow%20CSA&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Flask+Developer;Backend+Engineering+Enthusiast;ServiceNow+CSA+Certified;Hackathon+Winner;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Developer;Flask+Backend+Developer;ServiceNow+CSA+Certified;Hackathon+Winner;Open+to+Software+Engineering+Roles"/>
 
 <img src="https://komarev.com/ghpvc/?username=jeevasivaa&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
 
@@ -10,51 +10,54 @@
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 🎓 Computer Science Engineering Student
 
 💼 Full Stack Developer
 
-🚀 Passionate about building scalable web applications
+🐍 Python Developer
 
-🌱 Currently exploring Backend Development, REST APIs, System Design and Cloud Technologies
+⚙️ Flask Backend Developer
+
+📜 ServiceNow CSA Certified
 
 🏆 Hackathon Winner
 
-📜 ServiceNow Certified System Administrator (CSA)
+🌱 Currently Learning:
 
-💡 Interested in Open Source, Backend Systems and Full Stack Development
+* Advanced Backend Development
+* REST APIs
+* System Design
+* Cloud Computing
 
-📫 Reach me at:
+📫 Email: **[jeevasiva2k6@gmail.com](mailto:jeevasiva2k6@gmail.com)**
 
-**jeevasiva2k6@gmail.com**
+🔗 GitHub: https://github.com/jeevasivaa
+
+🔗 LinkedIn: https://linkedin.com/in/jeevasivaa
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/jeevasivaa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-
 <a href="https://linkedin.com/in/jeevasivaa">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 <a href="mailto:jeevasiva2k6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 </p>
 
 ---
 
-# ⚙️ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -68,13 +71,13 @@
 
 🥇 STACKX 2026 Hackathon Winner
 
-🥉 Hack Nova Technical Event Winner
+🥉 Hack Nova Winner
 
 🥉 GDSC Technical Quiz Winner
 
 📜 ServiceNow CSA Certified
 
-🎯 Full Stack Developer Intern
+💼 Full Stack Developer Intern
 
 ---
 
@@ -82,27 +85,15 @@
 
 ### 🔐 Smart Security Tag System
 
-Real-time theft detection prototype with automated monitoring and alerts.
+Real-time theft detection and alert monitoring system.
 
 ### 📦 Retail Chain Inventory Tracker
 
-Flask-based inventory management system for multi-outlet stock management.
+Flask + SQLite inventory management platform.
 
 ### 🏆 Sports Tournament Management System
 
-Tournament scheduling and team management platform with authentication.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeevasivaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevasivaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+Tournament scheduling and management platform.
 
 ---
 
@@ -110,27 +101,19 @@ Tournament scheduling and team management platform with authentication.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jeevasivaa&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jeevasivaa&theme=radical&hide_border=true"/>
 
 </div>
 
----
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeevasivaa&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevasivaa&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevasivaa&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -140,65 +123,67 @@ Tournament scheduling and team management platform with authentication.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevasivaa&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevasivaa&theme=github_dark"/>
 
 </div>
 
 ---
 
-# ⚡ Productivity Stats
+# 💻 Languages Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeevasivaa&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeevasivaa&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeevasivaa&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeevasivaa&theme=github_dark"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# ⚡ GitHub Metrics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jeevasivaa/jeevasivaa/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeevasivaa&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeevasivaa&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-# 💻 Developer Quote
+# 💬 Random Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
 </div>
 
 ---
 
-# 🎯 Current Goals
+# 🎯 2026 Goals
 
-✅ Strengthen Full Stack Development Skills
+✅ Master Backend Development
 
-✅ Build Production Ready Applications
+✅ Build Scalable Full Stack Applications
 
-✅ Learn Cloud & DevOps Fundamentals
+✅ Learn Cloud Technologies
 
-✅ Contribute to Open Source Projects
+✅ Contribute to Open Source
 
-✅ Secure Top Software Engineering Opportunities
+✅ Secure Top Software Engineering Role
 
 ---
 
 # ☕ Fun Fact
 
 ```python
-while True:
+while alive:
     eat()
     code()
-    sleep()
+    learn()
     repeat()
 ```
 
@@ -206,8 +191,8 @@ while True:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for Visiting My Profile
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C2FF,100:6A5ACD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 
 </div>
