@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jeeva%20S&fontSize=65&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20ServiceNow%20CSA&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JEEVA%20S&fontSize=65&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20ServiceNow%20CSA&descAlignY=55"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Developer;Flask+Backend+Developer;ServiceNow+CSA+Certified;Hackathon+Winner;Open+to+Software+Engineering+Roles"/>
 
