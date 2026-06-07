@@ -66,6 +66,22 @@
 </div>
 
 ---
+```text
+Python  ████████████████ 90%
+
+Flask   ███████████████░ 85%
+
+MySQL   ██████████████░░ 80%
+
+REST    ██████████████░░ 80%
+
+Linux   ████████████░░░░ 70%
+
+Cloud   ███████░░░░░░░░░ 40%
+```
+
+---
+
 
 # 🏆 Achievements
 
@@ -116,6 +132,21 @@ Tournament scheduling and management platform.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevasivaa&theme=react-dark&hide_border=true"/>
 
 </div>
+
+---
+🐍 Snake Animation
+
+Requires GitHub Actions setup
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
 ---
 
