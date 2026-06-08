@@ -59,12 +59,31 @@
 
 # ⚡ Tech Stack
 
-<div align="center">
+## Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,flask,mysql,sqlite,git,github,linux,postman,vscode&perline=5"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
 
-</div>
+## Backend
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
+</p>
+
+## Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+## Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+</p>
+
+---
 ---
 
 
