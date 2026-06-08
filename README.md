@@ -66,21 +66,7 @@
 </div>
 
 ---
-```text
-Python  ████████████████ 90%
 
-Flask   ███████████████░ 85%
-
-MySQL   ██████████████░░ 80%
-
-REST    ██████████████░░ 80%
-
-Linux   ████████████░░░░ 70%
-
-Cloud   ███████░░░░░░░░░ 40%
-```
-
----
 
 # 🏅 Verified Certifications & Digital Badges
 
